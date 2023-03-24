@@ -1,0 +1,4 @@
+C:\Users\alsuy\Desktop\ЛАБЫ САОД\Kurs\Debug\Kurs.vcxproj.AssemblyReference.cache
+C:\Users\alsuy\Desktop\ЛАБЫ САОД\Kurs\Debug\Kurs.MyForm.resources
+C:\Users\alsuy\Desktop\ЛАБЫ САОД\Kurs\Debug\Kurs.vcxproj.GenerateResource.cache
+C:\Users\alsuy\Desktop\ЛАБЫ САОД\Kurs\Debug\Kurs.exe
